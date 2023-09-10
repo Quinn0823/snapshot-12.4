@@ -2,22 +2,22 @@ var path = window.location.pathname
 var title_en = document.title
 var title_cns = document.title;
 
-if (path == "/index.html" || path == "/") {
+if (path == "/snapshot-12.4/index.html" || path == "/") {
     title_cns = "首页";
-} else if (path == "/projects.html") {
+} else if (path == "/snapshot-12.4/projects.html") {
     title_cns = "项目";
-} else if (path == "/music.html") {
+} else if (path == "/snapshot-12.4/music.html") {
     title_cns = "音乐";
-} else if (path == "/lab.html") {
+} else if (path == "/snapshot-12.4/lab.html") {
     title_cns = "实验室";
-} else if (path == "/website.html") {
+} else if (path == "/snapshot-12.4/website.html") {
     title_cns = "此网站";
-} else if (path == "/qs/index.html") {
+} else if (path == "/snapshot-12.4/qs/index.html") {
     title_cns = "QuinnStandard";
 }
 
-var header_en = "<div class='list'><ul><img src='/images/logo.png'/><li><a href='/index.html'>Home</a></li><li><a href='/projects.html'>Projects</a></li><li><a href='/qs/index.html'>QS</a></li><li><a href='/music.html'>Music</a></li><li><a href='/lab.html'>Lab</a></li><li class='about'><a href='/website.html'>Website</a></li></ul></div><h1>" + title_en + "</h1><hr>";
-var header_cns = "<div class='list'><ul><img src='/images/logo.png'/><li><a href='/index.html'>首页</a></li><li><a href='/projects.html'>项目</a></li><li><a href='/qs/index.html'>标准</a></li><li><a href='/music.html'>音乐</a></li><li><a href='/lab.html'>实验室</a></li><li class='about'><a href='/website.html'>此网站</a></li></ul></div><h1>" + title_cns + "</h1><hr>";
+var header_en = "<div class='list'><ul><img src='/snapshot-12.4/images/logo.png'/><li><a href='/snapshot-12.4/index.html'>Home</a></li><li><a href='/snapshot-12.4/projects.html'>Projects</a></li><li><a href='/snapshot-12.4/qs/index.html'>QS</a></li><li><a href='/snapshot-12.4/music.html'>Music</a></li><li><a href='/snapshot-12.4/lab.html'>Lab</a></li><li class='about'><a href='/snapshot-12.4/website.html'>Website</a></li></ul></div><h1>" + title_en + "</h1><hr>";
+var header_cns = "<div class='list'><ul><img src='/snapshot-12.4/images/logo.png'/><li><a href='/snapshot-12.4/index.html'>首页</a></li><li><a href='/snapshot-12.4/projects.html'>项目</a></li><li><a href='/snapshot-12.4/qs/index.html'>标准</a></li><li><a href='/snapshot-12.4/music.html'>音乐</a></li><li><a href='/snapshot-12.4/lab.html'>实验室</a></li><li class='about'><a href='/snapshot-12.4/website.html'>此网站</a></li></ul></div><h1>" + title_cns + "</h1><hr>";
 
 
 
