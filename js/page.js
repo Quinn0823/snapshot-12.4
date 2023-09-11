@@ -16,8 +16,8 @@ if (path == "/snapshot-12.4/index.html" || path == "/snapshot-12.4/") {
     title_cns = "QuinnStandard";
 }
 
-var header_en = "<div class='list'><ul><img src='images/logo.png'/><li><a href='index.html'>Home</a></li><li><a href='projects.html'>Projects</a></li><li><a href='qs/index.html'>QS</a></li><li><a href='music.html'>Music</a></li><li><a href='lab.html'>Lab</a></li><li class='about'><a href='website.html'>Website</a></li></ul></div><h1>" + title_en + "</h1><hr>";
-var header_cns = "<div class='list'><ul><img src='images/logo.png'/><li><a href='index.html'>首页</a></li><li><a href='projects.html'>项目</a></li><li><a href='qs/index.html'>标准</a></li><li><a href='music.html'>音乐</a></li><li><a href='lab.html'>实验室</a></li><li class='about'><a href='website.html'>此网站</a></li></ul></div><h1>" + title_cns + "</h1><hr>";
+var header_en = "<div class='list'><ul><img src='images/logo.png'/><li><a href=''>Home</a></li><li><a href='projects.html'>Projects</a></li><li><a href='qs/index.html'>QS</a></li><li><a href='music.html'>Music</a></li><li><a href='lab.html'>Lab</a></li><li class='about'><a href='website.html'>Website</a></li></ul></div><h1>" + title_en + "</h1><hr>";
+var header_cns = "<div class='list'><ul><img src='images/logo.png'/><li><a href=''>首页</a></li><li><a href='projects.html'>项目</a></li><li><a href='qs/index.html'>标准</a></li><li><a href='music.html'>音乐</a></li><li><a href='lab.html'>实验室</a></li><li class='about'><a href='website.html'>此网站</a></li></ul></div><h1>" + title_cns + "</h1><hr>";
 
 
 
